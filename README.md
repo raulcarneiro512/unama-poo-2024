@@ -1,2 +1,2 @@
 # unama-poo-2024
-codigo da disciplina pooo @alanveloso
+codigo da disciplina poo @alanveloso
